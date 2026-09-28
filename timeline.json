@@ -1,0 +1,119 @@
+{
+  "title": "The airline business hiding in your wallet",
+  "voice": "af_heart",
+  "scenes": [
+    {
+      "kind": "hook",
+      "text": "Your airline can make money from you while you're buying groceries. No boarding pass required.",
+      "start": 0,
+      "duration": 6.5630476190476195,
+      "audio_start": 0.32,
+      "audio_duration": 5.312
+    },
+    {
+      "kind": "reveal",
+      "text": "The secret is a second business hiding behind the planes: selling reward points to banks.",
+      "start": 6.5630476190476195,
+      "duration": 6.520380952380952,
+      "audio_start": 6.88304761904762,
+      "audio_duration": 5.269333333333333
+    },
+    {
+      "kind": "costs",
+      "text": "Seats are expensive to sell. Fuel, crews, aircraft, maintenance, and airports all need paying before a flight turns a profit.",
+      "start": 13.083428571428572,
+      "duration": 9.613714285714286,
+      "audio_start": 13.403428571428572,
+      "audio_duration": 8.362666666666666
+    },
+    {
+      "kind": "bank",
+      "text": "A bank buys miles from the airline, then awards them to customers for spending on its credit card.",
+      "start": 22.697142857142858,
+      "duration": 7.096380952380953,
+      "audio_start": 23.017142857142858,
+      "audio_duration": 5.8453333333333335
+    },
+    {
+      "kind": "spend",
+      "text": "Swipe for coffee. Pay for groceries. Collect points. The bank sends cash to the airline, often before you take a trip.",
+      "start": 29.793523809523812,
+      "duration": 8.93104761904762,
+      "audio_start": 30.113523809523812,
+      "audio_duration": 7.68
+    },
+    {
+      "kind": "why",
+      "text": "Banks want your business too. Cards can bring merchant fees, annual fees, and interest. Rewards make the card attractive.",
+      "start": 38.72457142857143,
+      "duration": 8.845714285714287,
+      "audio_start": 39.04457142857143,
+      "audio_duration": 7.594666666666667
+    },
+    {
+      "kind": "stat",
+      "text": "In twenty twenty-five, Delta received eight point two billion dollars from American Express through their partnership. That's a lot of everyday spending.",
+      "start": 47.57028571428572,
+      "duration": 10.46704761904762,
+      "audio_start": 47.89028571428572,
+      "audio_duration": 9.216
+    },
+    {
+      "kind": "split",
+      "text": "But that cash is not all profit. Part covers future flights. Other portions pay for marketing and benefits.",
+      "start": 58.037333333333336,
+      "duration": 8.120380952380954,
+      "audio_start": 58.35733333333334,
+      "audio_duration": 6.8693333333333335
+    },
+    {
+      "kind": "empty",
+      "text": "Filling an otherwise empty seat may cost less than the bank paid for the points. That's the economic appeal.",
+      "start": 66.15771428571429,
+      "duration": 7.736380952380952,
+      "audio_start": 66.47771428571428,
+      "audio_duration": 6.485333333333333
+    },
+    {
+      "kind": "full",
+      "text": "But rewards aren't free. A full flight can mean displacing a paying passenger. Partner airlines also charge for award seats.",
+      "start": 73.89409523809525,
+      "duration": 9.421714285714287,
+      "audio_start": 74.21409523809524,
+      "audio_duration": 8.170666666666667
+    },
+    {
+      "kind": "unused",
+      "text": "Some points are never redeemed. Airlines estimate that breakage. Changing award prices can also change what your balance buys.",
+      "start": 83.31580952380953,
+      "duration": 9.677714285714286,
+      "audio_start": 83.63580952380953,
+      "audio_duration": 8.426666666666666
+    },
+    {
+      "kind": "truth",
+      "text": "So, more money from points than seats? The headline needs care. Partnership cash, ticket revenue, and profit are different measures.",
+      "start": 92.99352380952382,
+      "duration": 9.05904761904762,
+      "audio_start": 93.31352380952382,
+      "audio_duration": 7.808
+    },
+    {
+      "kind": "engine",
+      "text": "Ticket sales can still be much larger. The real story is how loyalty turns everyday spending into valuable airline cash.",
+      "start": 102.05257142857144,
+      "duration": 9.336380952380953,
+      "audio_start": 102.37257142857143,
+      "audio_duration": 8.085333333333333
+    },
+    {
+      "kind": "end",
+      "text": "The plane makes the reward desirable. The card keeps cash flowing. You're part of the airline business, even on the ground.",
+      "start": 111.38895238095239,
+      "duration": 8.61104761904762,
+      "audio_start": 111.70895238095238,
+      "audio_duration": 7.36
+    }
+  ],
+  "voice_speed": 0.95
+}

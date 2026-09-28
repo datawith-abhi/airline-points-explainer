@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: airline-points-explainer
+    runtime: static
+    buildCommand: echo Ready
+    staticPublishPath: .

@@ -1,0 +1,12 @@
+{
+  "duration_seconds": 120,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "decoded_frames": 3600,
+  "full_decode": "passed",
+  "captions": 63,
+  "subtitle_timing": "Whisper small.en on the narration audio",
+  "voice": "Kokoro af_heart",
+  "size_bytes": 16165866,
+  "purchases": 0
+}

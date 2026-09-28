@@ -1,0 +1,5 @@
+kokoro-onnx==0.6.1
+soundfile==0.14.0
+pillow==12.3.0
+imageio-ffmpeg==0.6.0
+faster-whisper==1.2.1

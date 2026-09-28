@@ -1,0 +1,20 @@
+{
+  "title": "The airline business hiding in your wallet",
+  "voice": "af_heart",
+  "scenes": [
+    {"kind":"hook","text":"Your airline can make money from you while you're buying groceries. No boarding pass required."},
+    {"kind":"reveal","text":"The secret is a second business hiding behind the planes: selling reward points to banks."},
+    {"kind":"costs","text":"Seats are expensive to sell. Fuel, crews, aircraft, maintenance, and airports all need paying before a flight turns a profit."},
+    {"kind":"bank","text":"A bank buys miles from the airline, then awards them to customers for spending on its credit card."},
+    {"kind":"spend","text":"Swipe for coffee. Pay for groceries. Collect points. The bank sends cash to the airline, often before you take a trip."},
+    {"kind":"why","text":"Banks want your business too. Cards can bring merchant fees, annual fees, and interest. Rewards make the card attractive."},
+    {"kind":"stat","text":"In twenty twenty-five, Delta received eight point two billion dollars from American Express through their partnership. That's a lot of everyday spending."},
+    {"kind":"split","text":"But that cash is not all profit. Part covers future flights. Other portions pay for marketing and benefits."},
+    {"kind":"empty","text":"Filling an otherwise empty seat may cost less than the bank paid for the points. That's the economic appeal."},
+    {"kind":"full","text":"But rewards aren't free. A full flight can mean displacing a paying passenger. Partner airlines also charge for award seats."},
+    {"kind":"unused","text":"Some points are never redeemed. Airlines estimate that breakage. Changing award prices can also change what your balance buys."},
+    {"kind":"truth","text":"So, more money from points than seats? The headline needs care. Partnership cash, ticket revenue, and profit are different measures."},
+    {"kind":"engine","text":"Ticket sales can still be much larger. The real story is how loyalty turns everyday spending into valuable airline cash."},
+    {"kind":"end","text":"The plane makes the reward desirable. The card keeps cash flowing. You're part of the airline business, even on the ground."}
+  ]
+}
