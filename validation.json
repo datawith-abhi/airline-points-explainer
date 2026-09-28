@@ -1,12 +1,24 @@
 {
-  "duration_seconds": 120,
+  "edition": "character",
+  "duration_seconds": 120.0,
   "resolution": "1920x1080",
   "fps": 30,
   "decoded_frames": 3600,
   "full_decode": "passed",
-  "captions": 63,
-  "subtitle_timing": "Whisper small.en on the narration audio",
-  "voice": "Kokoro af_heart",
-  "size_bytes": 16165866,
+  "caption_groups": 63,
+  "speech_mouth_cues": 689,
+  "mouth_shapes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "X"
+  ],
+  "lip_sync": "Rhubarb analysis of the narration audio",
+  "size_bytes": 20487025,
   "purchases": 0
 }
