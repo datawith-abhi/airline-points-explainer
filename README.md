@@ -27,7 +27,7 @@ The film distinguishes cash receipts from revenue and profit. Delta's $8.2 billi
 
 ## Reproduce
 
-Use Python 3.12. Install `kokoro-onnx soundfile pillow imageio-ffmpeg faster-whisper` into a local `deps` directory with pip's `--target` option. Run `fetch_assets.py`, `narrate.py 0.95`, `captions.py`, and `film.py`. Rendering is local; Render serves the completed film and page. Model weights, installed dependencies, and local authentication files are not included.
+Use Python 3.12. Run `python -m pip install --target deps -r renderer-requirements.txt`, then `fetch_assets.py`, `narrate.py 0.95`, `captions.py`, and `film.py`. Rendering is local; Render serves the completed film and page. Model weights, installed dependencies, and local authentication files are not included. The dependency list is named `renderer-requirements.txt` so static hosting does not install the narration tools.
 
 ## Render settings
 

@@ -19,7 +19,7 @@ assert '$8.2' in transcript and 'planes' in transcript
 assert not any(s in transcript for s in ["I'm tired",'Thank you','Perfect.','plains'])
 files=['subtitles.srt','timeline.json','production.json','captions.json','film.py','narrate.py','captions.py','fetch_assets.py','package.py']
 for name in files:shutil.copy2(R/name,site/name)
-(site/'requirements.txt').write_text('kokoro-onnx==0.6.1\nsoundfile==0.14.0\npillow==12.3.0\nimageio-ffmpeg==0.6.0\nfaster-whisper==1.2.1\n')
+(site/'renderer-requirements.txt').write_text('kokoro-onnx==0.6.1\nsoundfile==0.14.0\npillow==12.3.0\nimageio-ffmpeg==0.6.0\nfaster-whisper==1.2.1\n')
 (site/'render.yaml').write_text('services:\n  - type: web\n    name: airline-points-explainer\n    runtime: static\n    buildCommand: echo Ready\n    staticPublishPath: .\n')
 report={'duration_seconds':120,'resolution':'1920x1080','fps':30,'decoded_frames':3600,'full_decode':'passed','captions':len(caps),'subtitle_timing':'Whisper small.en on the narration audio','voice':'Kokoro af_heart','size_bytes':video.stat().st_size,'purchases':0}
 (site/'validation.json').write_text(json.dumps(report,indent=2));(R/'decode.log').write_text(run.stderr+'\n'+run.stdout)
